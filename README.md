@@ -7,5 +7,11 @@
 - Abrir puerto para esta caso utilizamos el de defecto http://localhost:8080/
 
 1. Administrar el jeinkis
-2. Plugins git e integración con SonarQube
-3. Creación de Items y integración con GitHub
+2. CLI
+   - descargar jenkins-cli.jar en http://localhost:8080/cli/
+   - abrir CMD en la ubicació descarga
+   - Configurar en autorizacion para cualquiera pueda usar.
+   - en el CLI si queremos correr el job TestJob:  java -jar jenkins-cli.jar -s http://localhost:8080/ build TestJob
+3. Plugins git e integración con SonarQube
+4. Creación de Items y integración con GitHub
+5. Notitificación por email
