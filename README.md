@@ -35,5 +35,7 @@
    - Talbien podemos modificar el script agregando mas Stage y al correr Build now vermos mas columnas con cada paso.
 9. CI - jenkinsfile piple desde GitHub
    - Repositorio GitHub creado
-   - Crarmos un archivo al repo (podemos crear y copiar el mismo script anterior)
+   - Crearmos un archivo al repo (podemos crear y copiar el mismo script anterior)
+   - configuramos el job pipeline: Script from SCM, la url repo gitHub, credencial, el branch principal, la ruta del archivo.
+   - ejecutamos "Build now"
 10. Notitificación por email
