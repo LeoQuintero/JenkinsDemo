@@ -26,4 +26,13 @@
     - Instalar plugin
     - Dashborar / new view / nombre y  seleccionamos Build Pipeline View
     - Seleccionar el job / No Of Displayed Builds (ejemplo 5)
-8. Notitificación por email
+8. CI - jenkinsfile pipeline - sencillo "hola mundo"
+   - Verificar que este instalado plugin pipeline
+   - Crear un job tipo pipeline
+   - Creamos en este caso un scrip (hello mundo)
+   - opcional Pipeline Syntax (build a job - ej: DevJob1)
+   - Build now
+   - Talbien podemos modificar el script agregando mas Stage y al correr Build now vermos mas columnas con cada paso.
+9. CI - jenkinsfile piple desde GitHub
+   - Repositorio GitHub creado
+10. Notitificación por email
