@@ -22,4 +22,8 @@
   - Sección asignación de roles: Agregamos los usuarios creados y asingamos roles creados (ejemplo de tester y developer)
 5. Plugins git e integración con SonarQube
 6. Creación de Items y integración con GitHub
-7. Notitificación por email
+7. Creación Pipeline
+    - Instalar plugin
+    - Dashborar / new view / nombre y  seleccionamos Build Pipeline View
+    - Seleccionar el job / No Of Displayed Builds (ejemplo 5)
+8. Notitificación por email
